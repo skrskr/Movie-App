@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="details_activity">Details Activity</string>
+    <string name="action_setting">Settings</string>
+
+    <string name="pref_movies_label_top_rated">Top Rated</string>
+    <string name="pref_movies_label_most_popular">Most Popular</string>
+    <string name="pref_movies_label_favorites">Favorites</string>
+
+    <string name="pref_movies_key" translatable="false">movies</string>
+    <string name="pref_movies_label">Movies Type</string>
+    <string name="pref_movies_top_rated" translatable="false">top_rated</string>
+    <string name="pref_movies_most_popular" translatable="false">popular</string>
+    <string name="pref_movies_favorites" translatable="false">favorite</string>
+
+</resources>
